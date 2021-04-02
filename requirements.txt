@@ -1,0 +1,5 @@
+dateparser
+faker
+flask_graphql
+graphene
+pymongo[srv]
